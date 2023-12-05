@@ -1,5 +1,11 @@
-### Hi there 👋
+<header>
+  <div id = "header" align = "center">
+    <h2>Тут находится GitHub-пространство Me1ok</h2>
+    <h3>Только начинаю свой путь, xd🤔</h3>
+    </div>
+</header>
 
+  
 <!--
 **0xMe1ok/0xMe1ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
